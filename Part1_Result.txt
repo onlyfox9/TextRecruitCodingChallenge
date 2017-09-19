@@ -1,0 +1,75 @@
+sent total: 8532
+recv total: 4493
+
+c24:
+    sent: 594
+    recv: 399
+c23:
+    sent: 715
+    recv: 405
+c22:
+    sent: 538
+    recv: 340
+c21:
+    sent: 632
+    recv: 308
+c20:
+    sent: 532
+    recv: 284
+c19:
+    sent: 569
+    recv: 222
+c18:
+    sent: 548
+    recv: 316
+c17:
+    sent: 466
+    recv: 235
+c16:
+    sent: 449
+    recv: 214
+c15:
+    sent: 449
+    recv: 246
+c14:
+    sent: 395
+    recv: 216
+c13:
+    sent: 394
+    recv: 245
+c12:
+    sent: 353
+    recv: 156
+c11:
+    sent: 297
+    recv: 163
+c10:
+    sent: 362
+    recv: 162
+c09:
+    sent: 254
+    recv: 84
+c08:
+    sent: 209
+    recv: 92
+c07:
+    sent: 187
+    recv: 79
+c06:
+    sent: 177
+    recv: 114
+c05:
+    sent: 105
+    recv: 93
+c04:
+    sent: 135
+    recv: 42
+c03:
+    sent: 95
+    recv: 41
+c02:
+    sent: 47
+    recv: 33
+c01:
+    sent: 30
+    recv: 4
